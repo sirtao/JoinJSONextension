@@ -9,5 +9,6 @@
    "com.google.android.youtube": "https://www.youtube.com/feed/subscriptions",
    "com.google.android.apps.plus": "https://plus.google.com/u/0/notifications/all",
    "com.twitter.android": "https://twitter.com/",
-   "org.telegram.messenger": "https://web.telegram.org/"
+   "org.telegram.messenger": "https://web.telegram.org/",
+   "com.tumblr": "https://www.tumblr.com/dashboard"
 }
