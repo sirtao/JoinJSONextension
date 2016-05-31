@@ -11,5 +11,6 @@
    "com.google.android.apps.plus": "https://plus.google.com/u/0/notifications/all",
    "com.twitter.android": "https://twitter.com/",
    "org.telegram.messenger": "https://web.telegram.org/",
-   "com.tumblr": "https://www.tumblr.com/dashboard"
+   "com.tumblr": "https://www.tumblr.com/dashboard",
+   "com.badoo.mobile": "https://badoo.com/"
 }
